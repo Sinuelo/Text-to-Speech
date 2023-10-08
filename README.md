@@ -3,7 +3,7 @@
 
 
 # :gear: Requisitos
-## PyPDF2
+## [PyPDF2](https://pypdf2.readthedocs.io/en/3.0.0/)
 ## pyttsx3
 ## customtkinter
   
